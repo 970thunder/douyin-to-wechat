@@ -1,0 +1,35 @@
+# Python 依赖
+
+# API 客户端
+openai>=1.0.0
+requests>=2.31.0
+
+# Markdown 处理
+markdown>=3.5.0
+markdown-it-py>=3.0.0
+
+# HTML 处理
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+premailer>=3.10.0
+
+# 工具库
+python-dotenv>=1.0.0
+pyyaml>=6.0.0
+click>=8.1.0
+
+# 音频处理（可选）
+pydub>=0.25.0
+
+# 测试
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
+# 代码质量
+black>=23.0.0
+flake8>=6.1.0
+mypy>=1.5.0
+
+# 类型提示
+types-requests>=2.31.0
+types-beautifulsoup4>=4.12.0

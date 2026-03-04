@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Environment
+.env
+venv/
+
+# Output files
+output/
+*.mp3
+*.mp4
+*.wav
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
